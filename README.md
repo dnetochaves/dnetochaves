@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1_rg_G3bIJSzjc8ptiI8KJkOPRtN5Wcjq/view?usp=sharing" alt="Image showing Dennis Hartrampf, team lead software development">
+<img src="https://github.com/dnetochaves/dnetochaves/blob/main/banner.png" alt="Image showing Dennis Hartrampf, team lead software development">
 
 Sou um profissional experiente em Análise e Desenvolvimento de Sistemas com mais de 10 anos de vivência em projetos desafiadores. Atualmente cursando pós-graduação em Arquitetura de Software, busco aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
 
