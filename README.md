@@ -6,12 +6,11 @@ Apaixonado por codificação e com grande entusiasmo por criar soluções inovad
 
 Minhas principais habilidades:
 
-Linguagens de Programação: Python, Django
-Sistemas Operacionais: Linux
-DevOps: Automação de infraestrutura e pipelines de entrega contínua
-Desenvolvimento Mobile: Dart, Flutter
+Linguagens de Programação: Python, Django</br>
+Sistemas Operacionais: Linux</br>
+DevOps: Automação de infraestrutura e pipelines de entrega contínua</br>
+Desenvolvimento Mobile: Dart, Flutter</br>
 Sempre em busca de novos desafios e oportunidades para expandir meus horizontes e contribuir para o sucesso de projetos complexos.
-Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
