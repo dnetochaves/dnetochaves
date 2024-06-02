@@ -1,9 +1,16 @@
 <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Dennis Hartrampf, team lead software development">
 
-8+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
+Sou um profissional experiente em Análise e Desenvolvimento de Sistemas com mais de 10 anos de vivência em projetos desafiadores. Atualmente cursando pós-graduação em Arquitetura de Software, busco aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
 
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Apaixonado por codificação e com grande entusiasmo por criar soluções inovadoras e eficientes. Acredito que a tecnologia tem o poder de transformar o mundo e me dedico a utilizar meus conhecimentos para fazer a diferença.
 
+Minhas principais habilidades:
+
+Linguagens de Programação: Python, Django
+Sistemas Operacionais: Linux
+DevOps: Automação de infraestrutura e pipelines de entrega contínua
+Desenvolvimento Mobile: Dart, Flutter
+Sempre em busca de novos desafios e oportunidades para expandir meus horizontes e contribuir para o sucesso de projetos complexos.
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
