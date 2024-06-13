@@ -9,7 +9,6 @@ Minhas principais habilidades:
 Linguagens de Programação: Python, Django</br>
 Sistemas Operacionais: Linux</br>
 DevOps: Automação de infraestrutura e pipelines de entrega contínua</br>
-Desenvolvimento Mobile: Dart, Flutter</br>
 Sempre em busca de novos desafios e oportunidades para expandir meus horizontes e contribuir para o sucesso de projetos complexos.
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
